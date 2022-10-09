@@ -1,0 +1,5 @@
+print("Hello World")
+print("Hello Virat")
+print("How are you?")
+print("I Am Fine")
+print("Ok nyc ")
